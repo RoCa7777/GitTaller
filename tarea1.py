@@ -1,0 +1,8 @@
+var1 = input ("Nombre:")
+var2 = input ("Edad:")
+var3 = input ("Ciudad de origen:")
+var4 = input ("Estado:")
+print ("\nMi nombre es ", var1)
+print ("Tengo: ", var2)
+print( "Vivo en la ciudad de: ",var3) 
+print ("Soy del Estado de: ", var4)
